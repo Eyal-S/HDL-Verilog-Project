@@ -6,22 +6,24 @@ Verilog project written in Vivado
 * The purpose of the first part of the project is to cover the following topics:
 
 1. Basic design and simulation in Verilog:
-	a. Registers and wires
-	b. Combinational logic - continuous assignments and always@ blocks
-	c. Synchronous logic - always@ blocks, finite state machines
-	d. Module description and instantiation, parameterized modules
-	e. Verifying design by test-benches
+  a. Registers and wires
+  b. Combinational logic - continuous assignments and always@ blocks
+  c. Synchronous logic - always@ blocks, finite state machines
+  d. Module description and instantiation, parameterized modules
+  e. Verifying design by test-benches
+
 2. FPGA Design Flow in Xilinx Environment:
-	a. RTL Design 
-	b. Simulation – writing a test-bench and debugging using wave-diagrams
-	c. Synthesis, Implementation and the constraints file (.xdc)
-	d. Timing analysis (setup, hold, slack)
-	e. Interfacing the peripheral components of the BASYS3 board
-	f. Integrated Logic Analyzer usage for hardware debugging
+  a. RTL Design 
+  b. Simulation – writing a test-bench and debugging using wave-diagrams
+  c. Synthesis, Implementation and the constraints file (.xdc)
+  d. Timing analysis (setup, hold, slack)
+  e. Interfacing the peripheral components of the BASYS3 board
+  f. Integrated Logic Analyzer usage for hardware debugging
+
 3. Engineering issues:
-	a. Specification understanding, signed addition, finite state machines
-	b. Digital debouncing and pulse generation
-	c. Clock, frequency division
+  a. Specification understanding, signed addition, finite state machines
+  b. Digital debouncing and pulse generation
+  c. Clock, frequency division
 
 For part 1 I have created the following modules:  
 Full Adder, Binary Adder, Incrementor-Decrementor, Counter, 
