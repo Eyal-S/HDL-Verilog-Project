@@ -3,7 +3,7 @@ Verilog project written in Vivado
 
 # Verilog Project Part 1 - 
 
-** The purpose of the first part of the project is to cover the following topics: **
+__The purpose of the first part of the project is to cover the following topics:__
 
 1. Basic design and simulation in Verilog:
   * Registers and wires
@@ -32,7 +32,7 @@ Control, Debouncer, Seven Segment Display, Countdown and some test-benches.
 
 # Verilog Project Part 2 - 
 
-** The purpose of the second part of the project is to cover the following topics: **
+__The purpose of the second part of the project is to cover the following topics:__
 
 1. Asynchronous reset
 2. PS2 interface - serial data transfer, transmission-frame structure, not a constantly toggling clock, how to identify an event of key-press
