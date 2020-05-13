@@ -1,4 +1,4 @@
-# HDL-Verilog-Project
+# HDL-Verilog-Project - Eyal S
 Verilog project written in Vivado
 
 # Verilog Project Part 1 - 
