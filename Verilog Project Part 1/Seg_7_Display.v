@@ -3,7 +3,7 @@
 // Company:
 // Engineer:        Eyal S
 //
-// Create Date:     11/12/2019 05:59:38 PM
+// Create Date:     11/12/2019 06:54:22 PM
 // Design Name:     
 // Module Name:     Seg_7_Display
 // Project Name:   Verilog Part 1
